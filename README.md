@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=SunChaeHoon&fontSize=80)
-<img  height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunchaehoon&layout=compact&langs_count=6"/>
+!(https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=SunChaeHoon&fontSize=80)
+
   
 ![sunchaehoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunchaehoon&show_icons=true&hide_border=true&count_private=true&theme=dracula)
   
