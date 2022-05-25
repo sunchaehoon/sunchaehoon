@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   
 ![sunchaehoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunchaehoon&show_icons=true&hide_border=true&count_private=true&theme=dracula)
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
+
 
 
