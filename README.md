@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-!(https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=SunChaeHoon&fontSize=80)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=285&section=header&text=선채훈&fontSize=85&animation=twinkling&fontAlignY=40&desc=sunchaehoon&descAlignY=60"/>
 
   
 ![sunchaehoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunchaehoon&show_icons=true&hide_border=true&count_private=true&theme=dracula)
